@@ -1,0 +1,11 @@
+Per començar he eliminat els estils que hi habien per veure el codi base i he anyadit amb el link un css nou sense res encare
+He canbiat el titol per que tingui sentit amb el que mostra el text
+En contes d utilitzar les taules e decidit fer servir ul per organitzar el contingut
+He canviat el tect principal que eren simples <p> en h2 per mostrar com a titol
+En contes de utilitzar un sol div e volgut tenir dos per separar  els dos paragrafs
+Ficar clases als divs per poder nombrarlos a la hora de fer el css
+Tambe he anyadit un menu on et pot portar directament al paragraf seleccionat en base al seu titol
+Anyadir un simple footer per estetica amb una mostra de copyrigt
+Anyadir etiquetes aria per les persones amb discapacitats
+Modificars els liks per que t enviin a una direccio real
+Per ultim he anyadit una imatge sense dreus d autor i amb els seu respectiu css.
